@@ -5,7 +5,7 @@
    include("core/inc/funciones.inc.php");
    include("core/secure/ips.php");
    $archivo = "./logs/log.log";
-   $ip = ip_in_range($_SERVER["REMOTE_ADDR"], $rango);
+   $ip = ip_in_ranges($_SERVER["REMOTE_ADDR"], $rango);
 
 ?>
 
