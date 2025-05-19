@@ -1,0 +1,6 @@
+
+05-18-2025 22:46:13.279600 CST ::1 [info]: referer: NULL REFERER El archivo C:\xampp\htdocs\Rodas_Ramirez_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+05-18-2025 22:46:20.219500 CST ::1 [warning]: referer: http://localhost/Rodas_Ramirez_desarrollo_de_log/ CREDENCIALES INCORRECTAS ENVIADAS HACIA //localhost
+                             Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+05-18-2025 22:46:20.230100 CST ::1 [info]: referer: http://localhost/Rodas_Ramirez_desarrollo_de_log/ El archivo C:\xampp\htdocs\Rodas_Ramirez_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+05-18-2025 22:46:28.266500 CST ::1 [notice]: referer: http://localhost/Rodas_Ramirez_desarrollo_de_log/?status=7 EL CLIENTE INICIÓ SESIÓN SATISFACTORIAMENTE Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
